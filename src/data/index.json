@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "Front End",
+            "description": "Experienced front-end developer proficient in React, specializing in crafting responsive user interfaces."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Video Editing",
+            "description": "Creative video editing professional with a flair for storytelling and visual aesthetics. Proficient in software like VN."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "UI Design",
+            "description": "Versatile UI designer with a passion for creating visually stunning and intuitive user interfaces. Proficient in design tools."
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "ML Models",
+            "description": "Seasoned ML practitioner dedicated to pushing the boundaries of AI. Proficient in developing ML Models."
+        }
+    ]
+}

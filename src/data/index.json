@@ -24,5 +24,28 @@
             "title": "ML Models",
             "description": "Seasoned ML practitioner dedicated to pushing the boundaries of AI. Proficient in developing ML Models."
         }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/image-asset.png",
+          "title": "Cafe & Restaurant Website",
+          "description": "Indulge your senses in a symphony of flavors crafted with passion and precision by our skilled chefs. Our menu offers a delightful fusion of traditional and innovative dishes.",
+          "link": "View In Github"
+        },
+        {
+          "id": "2",
+          "src": "./img/5651981.png",
+          "title": "Portfolio Website",
+          "description": "This project showcases my skills, projects, and passion. From elegant design to seamless functionality, this site reflects my commitment to excellence in the digital realm.",
+          "link": "View In Github"
+        },
+        {
+          "id": "3",
+          "src": "./img/netflix.png",
+          "title": "CineSphere - Movies App",
+          "description": "Embark on a cinematic journey like never before with Cinematrix, the ultimate movie recommendation system that transforms your viewing experience.",
+          "link": "View In Github"
+        }
     ]
 }
